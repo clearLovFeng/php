@@ -1,0 +1,2 @@
+https://yoursunny.com/p/PHP-decode/
+本工具可以解码用 微盾PHP脚本加密专家 （vidun 威盾PHP脚本加密专家、VirtualWall PHPCodeLock） V1.0.0.1000 加密过的PHP脚本。这类PHP程序往往会包含形如 $OOO0O0O00=__FILE__;$OOO000000=urldecode('%74%68%36%73%62%65%68%71%6c%61%34%63%6f%5f%73%61%64%66%70%6e%72');、eval(($$O0O0000O0( 等代码。本工具可以处理在“微盾PHP脚本加密专家”勾选Enable Encoding、Enable Obfuscation等选项后，经过编码、混淆的PHP代码，可以将威盾加密过的代码恢复成接近于原文。
